@@ -2,3 +2,5 @@ openai
 langchain
 python-dotenv
 jupyter
+pandas
+matplotlib
