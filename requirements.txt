@@ -4,3 +4,5 @@ python-dotenv
 jupyter
 pandas
 matplotlib
+tqdm
+langchain_visualizer
